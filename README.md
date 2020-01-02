@@ -5,6 +5,9 @@
 3. Persistence - database queries
 4. API - api controllers
 
+RUN THE PROJECT USING CLI
+-> dotnet watch run
+
 -> REFERENCE
 
 1. Application -> Domain -> Persistence
@@ -20,3 +23,5 @@ GIT SETUP
 1. git init
 2. rm -rf .git -> remove .git
 3. view hidden files in MacOS -> command + shift + .
+4. git add . -> all changed files (staged)
+5. git commit -m "your message"
