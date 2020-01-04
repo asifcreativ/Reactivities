@@ -19,6 +19,9 @@ Startup.cs - where we will add configuration
 Run First Migrations
 dotnet ef migrations add InitialCreate -p Persistence/ -s API/
 
+RESET DATA IN DATABASE 
+dotnet ef database drop -p Persistence/ -s Api/
+
 GIT SETUP
 1. git init
 2. rm -rf .git -> remove .git
