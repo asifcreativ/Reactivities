@@ -28,3 +28,7 @@ GIT SETUP
 3. view hidden files in MacOS -> command + shift + .
 4. git add . -> all changed files (staged)
 5. git commit -m "your message"
+
+
+<!-- Client-app State Management -->
+npm i mobx mobx-react-lite
